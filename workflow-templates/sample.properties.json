@@ -1,6 +1,7 @@
 {
     "name": "Sample Workflow",
     "description": "Sample CI starter workflow.",
+    "iconName": "jenkins",
     "categories": [
         "Groovy"
     ]
