@@ -1,0 +1,10 @@
+{
+    "name": "Sample Workflow",
+    "description": "Sample CI starter workflow.",
+    "categories": [
+        "Groovy"
+    ]//,
+//    "filePatterns": [
+//        "^Jenkinsfile"
+//    ]
+}
